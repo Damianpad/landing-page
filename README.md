@@ -1,3 +1,2 @@
 # landing-page
-This is a landing page for me to practice using git and git hub.
-Here I make small changes to the files and commit them for daily practice.
+Create a landing page so that you can practice HTML, CSS, JaveScript. Perfect for beginners, you can make it as simple or complex as you want. If you're a beginner this is a great way to practice frontend as well as git and git hub.
